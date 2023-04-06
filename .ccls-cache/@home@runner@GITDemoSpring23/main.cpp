@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-  cout << "Hello TCC!\n";
+  cout << "Hello GitHub!\n";
   
 }
